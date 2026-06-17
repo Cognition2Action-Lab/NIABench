@@ -1,5 +1,10 @@
 # Assistance Without Interruption: A Benchmark and LLM-based Framework for Non-Intrusive Human–Robot Assistance (NIABench)
-[![arXiv](https://img.shields.io/badge/arXiv-2404.19286v2-b31b1b.svg)](https://arxiv.org/abs/2605.01368)
+<a href="https://arxiv.org/abs/2605.01368">
+  <img src="https://img.shields.io/badge/arXiv-2605.01368-b31b1b.svg" alt="arXiv">
+</a> &nbsp; 
+<a href="https://renytek13.github.io/assistance-without-interruption/">
+  <img src="https://img.shields.io/badge/Project-Page-2f80ed.svg" alt="Project Page">
+</a>
 
 Official implementation of the paper "[Assistance Without Interruption: A Benchmark and LLM-based Framework for Non-Intrusive Human–Robot Assistance](https://arxiv.org/abs/2605.01368)".
 
